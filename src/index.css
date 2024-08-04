@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* font-family: "Big Shoulders Display", sans-serif; */
+/* font-family: "Lexend Deca", sans-serif; */
+
+
+.text-one{
+   font-family: "Big Shoulders Display", sans-serif; 
+}
+.text-tow{
+  font-family: "Lexend Deca", sans-serif;
+}
